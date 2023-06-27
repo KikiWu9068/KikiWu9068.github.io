@@ -1,7 +1,7 @@
 # KikiWu9068.github.io
-#Based on the time of their development and application, the following stock forecasting models can be categorized into "old" and "new":
+Based on the time of their development and application, the following stock forecasting models can be categorized into "Traditional" and "new":
 
-Old models:
+Traditional models:
 1. Linear Regression: Linear regression is a classic statistical modeling technique used to model the relationship between a dependent variable and one or more independent variables. It has been used for stock forecasting for a long time.
 
 2. Support Vector Machines (SVM): SVM is a supervised machine learning algorithm that can be used for regression or classification tasks. It has been applied to stock forecasting in the past.
@@ -19,4 +19,5 @@ New models:
 
 4. auto-ARIMA: ARIMA (AutoRegressive Integrated Moving Average) is a traditional time series forecasting model. Auto-ARIMA is an automated version of ARIMA that automatically selects the best parameters for the model. It has been used for stock forecasting to capture time-dependent patterns.
 
-These categorizations are based on the historical development and application of these models in the field of stock forecasting. However, it's important to note that the categorization of models as "old" or "new" is subjective and can change over time as new techniques and advancements are made in the field.
+These categorizations are based on the historical development and application of these models in the field of stock forecasting. However, it's important to note that the categorization of models as "Traditional" or "new" is subjective and can change over time as new techniques and advancements are made in the field.
+
