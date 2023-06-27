@@ -1,4 +1,4 @@
-Models introduction in stock price prediction
+# Models description in stock price prediction
 Introduction:
 
 1. Linear Regression:
