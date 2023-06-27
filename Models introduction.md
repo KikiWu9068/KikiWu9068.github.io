@@ -27,8 +27,11 @@ Auto-ARIMA is an automated version of the Autoregressive Integrated Moving Avera
 
 References:
 [1] James G., Witten D., Hastie T., Tibshirani R. (2013). An Introduction to Statistical Learning. Springer.
+
 [2] Vapnik, V. N. (1998). Statistical Learning Theory. Wiley.
+
 [3] Breiman, L. (2001). Random forests. Machine Learning, 45(1), 5-32.
+
 [4] Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning. Springer.
 [5] Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735-1780.
 [6] Schuster, M., & Paliwal, K. K. (1997). Bidirectional recurrent neural networks. IEEE Transactions on Signal Processing, 45(11), 2673-2681.
