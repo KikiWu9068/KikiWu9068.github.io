@@ -21,7 +21,7 @@ New models:
 
 These categorizations are based on the historical development and application of these models in the field of stock forecasting. However, it's important to note that the categorization of models as "Traditional" or "new" is subjective and can change over time as new techniques and advancements are made in the field.
 
-    **Jupyter notebook instructions**
+# **Jupyter notebook instructions**
 
 The models in the notebook are written and run sequentially according to the categories introduced above. The dataset uses Tesla's stock market price data from 2020-08-19 to 2021-08-18. When making stock price predictions, I only used the closing price for the model predictions. Due to the limited amount of stock data, there may be differences in the model results. You can put in other stock price data and use the close price to do the prediction analysis in this notebook. The results of the best model selected for the prediction may be different.
 
