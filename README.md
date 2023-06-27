@@ -21,3 +21,5 @@ New models:
 
 These categorizations are based on the historical development and application of these models in the field of stock forecasting. However, it's important to note that the categorization of models as "Traditional" or "new" is subjective and can change over time as new techniques and advancements are made in the field.
 
+
+
